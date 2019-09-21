@@ -15,7 +15,7 @@ Java         | Python       | C#            | C             |SQL/MYSQL      | As
 ------------ | ------------ | ------------- | ------------- | ------------- | ------------- | --------------------- 
 intermediate | beginner     | intermediate  | beginner      | intermediate  | beginner      | intermediate
 
-First Header | Second Header
+First Header | Second Header | Third Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
