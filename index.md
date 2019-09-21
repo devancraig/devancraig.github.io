@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
 
-# 'Devan's Pages'
+# **Devan's Pages**
 Hobbies
 - Golf
 - Coding
