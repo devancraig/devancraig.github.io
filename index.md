@@ -1,10 +1,10 @@
 ## Education
-<h4> Boise State University, Boise, ID </h4>
+<h3> Boise State University, Boise, ID </h3>
 <h4> AUGUST 2016 - DECEMBER 2020 </h4>
 <h4> Bachelors of Computer Science </h4>
 
 ## BestDayHR Experience
-<h4> Best Day HR, Remote — Lead Intern Software Developer </h4>
+<h3> Best Day HR, Remote — Lead Intern Software Developer </h3>
 <h4> August 2020 - PRESENT </h4>
 <h4> Helping to build new features to a .NET Core web application using a MVC framework. </h4>
 
@@ -21,7 +21,7 @@
 - Asana Project
 
 ## City of Boise Experience
-<h4> City of Boise, Boise— Intern Software Developer </h4>
+<h3> City of Boise, Boise— Intern Software Developer </h3>
 <h4> June 2019 - August 2020  </h4>
 <h4> Created new applications to help with what the city needed. Different types of applications included: C# console application, powershell scripts and .NET Core web applications. </h4> 
 
