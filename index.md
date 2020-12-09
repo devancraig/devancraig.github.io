@@ -66,6 +66,3 @@ C#         | .NET        | MVC            | HTML & CSS             | SQL     | P
 <p> Bachelors of Computer Science </p>
 
 
- and ![Image]()
-```
-
