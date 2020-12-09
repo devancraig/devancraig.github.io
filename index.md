@@ -14,10 +14,10 @@ Java         | Python        | C#            | C             | SQL/MySQL     | A
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 intermediate | beginner      | 
 
-| Syntax | Description |
+| Language | Years |
 | --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Java | 3 |
+| HTML | 2 |
 
 ### School Experiences
 Language    | Year        
