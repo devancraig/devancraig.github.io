@@ -1,8 +1,8 @@
 ## Experience
-#### Best Day HR, Remote — Lead Intern Software Developer
-#### August 2020 - PRESENT 
-#### Helping to build new features to a .NET Core web application using a MVC framework. 
-##### Focused Learning Areas
+<h4> Best Day HR, Remote — Lead Intern Software Developer </h4>
+<h4> August 2020 - PRESENT </h4>
+<h4> Helping to build new features to a .NET Core web application using a MVC framework. </h4>
+##### Focused Learning Areas 
 - .Net Core 3.1 
   - Razor pages 
   - MVC
