@@ -6,7 +6,7 @@
 [Source Code](https://github.com/devancraig/Landscaping-Website.git)
 
 ### City of Boise — Parks Tree Viewer
-<p>The goal of this project was to replicate a windows application that was currently being used and turn it into a web application. The existing data was already in a sql database. Taking the sql data I created views to match the existing application. I Then built the web application using .NET Core with razor pages and some telerik nuget packages for the data tables.</p><br>
+<p>The goal of this project was to replicate a windows application that was currently being used and turn it into a web application. The existing data was already in a sql database. Taking the sql data I created views to match the existing application. I Then built the web application using .NET Core with razor pages and some telerik nuget packages for the data tables.</p>
 
 ## BestDayHR Experience
 <h3> Best Day HR, Remote — Lead Intern Software Developer </h3>
@@ -25,8 +25,6 @@
 - Bootstrap
 - Asana Project
 
-<br>
-
 ## City of Boise Experience
 <h3> City of Boise, Boise— Intern Software Developer </h3>
 <p> June 2019 - August 2020  </p>
@@ -40,8 +38,6 @@
 - HTTP web scrape automation using Powershell + CURL
 - Rest API consumption
 - HTTP page automation using Powershell + CURL  (login -> navigate, update link) 
-
-<br>
 
 ## Skills
 
@@ -57,7 +53,6 @@ C#         | .NET        | MVC            | HTML & CSS             | SQL     | P
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 1.5 | 1.5 | 1.5  | 1.5 | 1.5 | 1 | 1 |
 
-<br>
 
 ## Education
 <h3> Boise State University, Boise, ID </h3>
