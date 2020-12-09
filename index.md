@@ -2,6 +2,7 @@
 <h3> Boise State University, Boise, ID </h3>
 <h4> AUGUST 2016 - DECEMBER 2020 </h4>
 <h4> Bachelors of Computer Science </h4>
+<br><br>
 
 ## BestDayHR Experience
 <h3> Best Day HR, Remote — Lead Intern Software Developer </h3>
