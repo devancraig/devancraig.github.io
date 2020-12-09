@@ -1,10 +1,10 @@
-theme: jekyll-theme-slate
-title: 'Devan Craig'
-subtitle: 'Experience is the name everyone gives to their mistakes. – Oscar Wilde'
-Description: Describes my current experience and projects that I've done.
-
-
-social-network-links:
-  email: "devancraig23@gmail.com"
-  github: https://github.com/devancraig
-  linkenin: https://www.linkedin.com/in/devan-craig-67b55a124/
+title: Devan Craig # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/devan-craig-67b55a124/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
