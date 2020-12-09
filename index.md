@@ -13,7 +13,7 @@
 <p> August 2020 - PRESENT </p>
 <p> Helping to build new features to a .NET Core web application using a MVC framework. </p>
 
-##### Focused Learning Areas 
+#### Focused Learning Areas 
 - .Net Core 3.1 
   - Razor pages 
   - MVC
@@ -32,7 +32,7 @@
 <p> June 2019 - August 2020  </p>
 <p> Created new applications to help with what the city needed. Different types of applications included: C# console application, powershell scripts and .NET Core web applications. </p> 
 
-##### Focused Learning Areas
+#### Focused Learning Areas
 - .Net Core 3.1 MVC
 - .Net Framework 4.72
 - Powershell
@@ -61,8 +61,8 @@ C#         | .NET        | MVC            | HTML & CSS             | SQL     | P
 
 ## Education
 <h3> Boise State University, Boise, ID </h3>
-<h4> AUGUST 2016 - DECEMBER 2020 </h4>
-<h4> Bachelors of Computer Science </h4>
+<p> AUGUST 2016 - DECEMBER 2020 </p>
+<p> Bachelors of Computer Science </p>
 
 
  and ![Image]()
