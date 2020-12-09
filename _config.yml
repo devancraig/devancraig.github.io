@@ -1,4 +1,10 @@
 theme: jekyll-theme-slate
-title: Devan Craig
-subtitle: Experience is the name everyone gives to their mistakes. – Oscar Wilde
+title: 'Devan Craig'
+subtitle: 'Experience is the name everyone gives to their mistakes. – Oscar Wilde'
 Description: Describes my current experience and projects that I've done.
+
+
+social-network-links:
+  email: "devancraig23@gmail.com"
+  github: https://github.com/devancraig
+  linkenin: https://www.linkedin.com/in/devan-craig-67b55a124/
