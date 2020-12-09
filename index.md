@@ -1,14 +1,34 @@
+## Experience
+#### Best Day HR, Remote — Lead Intern Software Developer
+#### August 2020 - PRESENT 
+#### Helping to build new features to a .NET Core web application using a MVC framework. 
+##### Focused Learning Areas
+- .Net Core 3.1 
+  - Razor pages 
+  - MVC
+  - View Components
+- Azure SQL Service 
+- JavaScript
+  - Revealing Module Pattern 
+  - Ajax
+- Bootstrap
+- Asana Project
 
-# **Devan's Pages**
-## Hobbies
-- Golf
-- Coding
-- Movies
+#### City of Boise, Boise— Intern Software Developer 
+#### June 2019 - August 2020  
+#### Created new applications to help with what the city needed. Different types of applications included: C# console application, powershell scripts 
+#### and .NET Core web applications.  
+##### Focused Learning Areas
+- .Net Core 3.1 MVC
+- .Net Framework 4.72
+- Powershell
+- SQL Queries, Views, Table Valued Functions and Stored Procedures
+- HTTP web scrape automation using Powershell + CURL
+- Rest API consumption
+- HTTP page automation using Powershell + CURL  (login -> navigate, update link) 
 
-## Top 3 Movies of 2019
-1. `Avengers: Endgame`
-2. Hobbs_and_Shaw
-3. **Spider-Man:Far From Home**
+
+## Skills
 
 ### School Experiences (Years)
 
@@ -23,6 +43,6 @@ C#         | .NET        | MVC            | HTML & CSS             | SQL     | P
 1.5 | 1.5 | 1.5  | 1.5 | 1.5 | 1 | 1 |
 
 
-[Link](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZp9awveLkAhV2FjQIHeB_AWsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.fandangonow.com%2Fdetails%2Fmovie%2Favengers-endgame-2019%2FMMVAF76018A477C2826A4EC8747C40B7BE27&psig=AOvVaw2SpLDBq3eZICbPkbJ34XgF&ust=1569174683838532) and ![Image](https://img01.mgo-images.com/image/thumbnail/v2/content/MMVAF76018A477C2826A4EC8747C40B7BE27.jpeg)
+[Link]() and ![Image]()
 ```
 
