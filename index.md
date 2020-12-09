@@ -10,7 +10,7 @@
 2. Hobbs_and_Shaw
 3. **Spider-Man:Far From Home**
 
-School Experiences
+### School Experiences
 | Language    | Year        |
 | ----------- | ----------- |
 | Java        | 3           |
@@ -20,7 +20,7 @@ School Experiences
 | NodeJS      | 0.5         |
 | JavaScript  | 0.5         |
 
-Professional Experiences
+### Professional Experiences
 | Language    | Year        |
 | ----------- | ----------- |
 | C#          | 1.5         |
