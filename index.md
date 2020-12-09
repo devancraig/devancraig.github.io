@@ -3,7 +3,13 @@
 ### Website — CS401 Final Project
 <p>I created a php website that used html5, css, javascript and jquery. The website was designed for my dad’s website business. In theme with that I created a general sign up/ login form as well as a contact us form. All forms were logged in a database and used as need be.</p>
 
-[Source Code](https://github.com/devancraig/Landscaping-Website.git)
+[Source Code](https://github.com/devancraig/Landscaping-Website)
+
+### Chat Server — CS455 Project
+<p>My Partner and I created a working chat server for our distributed systems class. To do this we used java’s RMI (remote method invocation) 
+to pass objects between systems creating a working console chat server application. </p>
+
+[Source Code](https://github.com/devancraig/Chat_Server)
 
 ### City of Boise — Parks Tree Viewer
 <p>The goal of this project was to replicate a windows application that was currently being used and turn it into a web application. The existing data was already in a sql database. Taking the sql data I created views to match the existing application. I Then built the web application using .NET Core with razor pages and some telerik nuget packages for the data tables.</p>
