@@ -18,6 +18,8 @@ intermediate | beginner      |
 | --- | ----------- |
 | Java | 3 |
 | HTML | 2 |
+| CSS | 2 |
+| MySQL | 1.5 |
 
 ### School Experiences
 Language    | Year        
