@@ -10,18 +10,23 @@
 2. Hobbs_and_Shaw
 3. **Spider-Man:Far From Home**
 
-Java         | Python        | C#            | C             | SQL/MySQL     | Assembly      | Powershell Scripting
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-intermediate | beginner      | 
-
-| Language | Years |
-| --- | ----------- |
-| Java | 3 |
-| HTML | 2 |
-| CSS | 2 |
-| MySQL | 1.5 |
-
 ### School Experiences
+
+<table>
+<tr><th>School Experiences </th><th> Professional Experiences </th></tr>
+<tr><td>
+
+|Table 1| Middle | Table 2|
+|--|--|--|
+|a| not b|and c |
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
 
 Language    | Year        
 ----------- | ----------- 
