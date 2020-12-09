@@ -48,7 +48,16 @@ C#         | .NET        | MVC            | HTML & CSS             | SQL     | P
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
 1.5 | 1.5 | 1.5  | 1.5 | 1.5 | 1 | 1 |
 
+## Projects
 
-[Link]() and ![Image]()
+### Website — CS401 Final Project
+I created a php website that used html5, css, javascript and jquery. The website was designed for my dad’s website business. In theme with that I created a general sign up/ login form as well as a contact us form. All forms were logged in a database and used as need be.
+
+[Source Code](https://github.com/devancraig/Landscaping-Website.git)
+
+### City of Boise — Parks Tree Viewer
+The goal of this project was to replicate a windows application that was currently being used and turn it into a web application. The existing data was already in a sql database. Taking the sql data I created views to match the existing application. I Then built the web application using .NET Core with razor pages and some telerik nuget packages for the data tables.
+
+ and ![Image]()
 ```
 
