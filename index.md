@@ -10,8 +10,11 @@
 2. Hobbs_and_Shaw
 3. **Spider-Man:Far From Home**
 
-### School Experiences
+### School Experiences (Years)
 
+Java         | HTML        | CSS            | MySQL             | NodeJS     | JavaScript   
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- 
+3 | 2 | 2  | 1.5 | 0.5 | 0.5 |
 
 Language    | Year        
 ----------- | ----------- 
