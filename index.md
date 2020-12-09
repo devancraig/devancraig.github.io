@@ -1,14 +1,14 @@
 ## Education
 <h4> Boise State University, Boise, ID </h4>
-<h5> AUGUST 2016 - DECEMBER 2020 </h5>
-<h5> Bachelors of Computer Science </h5>
+<h4> AUGUST 2016 - DECEMBER 2020 </h4>
+<h4> Bachelors of Computer Science </h4>
 
 ## BestDayHR Experience
 <h4> Best Day HR, Remote — Lead Intern Software Developer </h4>
-<h5> August 2020 - PRESENT </h5>
-<h5> Helping to build new features to a .NET Core web application using a MVC framework. </h5>
+<h4> August 2020 - PRESENT </h4>
+<h4> Helping to build new features to a .NET Core web application using a MVC framework. </h4>
 
-###### Focused Learning Areas 
+##### Focused Learning Areas 
 - .Net Core 3.1 
   - Razor pages 
   - MVC
@@ -25,7 +25,7 @@
 <h4> June 2019 - August 2020  </h4>
 <h4> Created new applications to help with what the city needed. Different types of applications included: C# console application, powershell scripts and .NET Core web applications. </h4> 
 
-###### Focused Learning Areas
+##### Focused Learning Areas
 - .Net Core 3.1 MVC
 - .Net Framework 4.72
 - Powershell
