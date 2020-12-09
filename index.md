@@ -22,6 +22,7 @@ intermediate | beginner      |
 | MySQL | 1.5 |
 
 ### School Experiences
+
 Language    | Year        
 ----------- | ----------- 
 Java        | 3           
@@ -32,6 +33,7 @@ NodeJS      | 0.5
 JavaScript  | 0.5         
 
 ### Professional Experiences
+
 Language    | Year        
 ----------- | ----------- 
 C#          | 1.5         
