@@ -4,6 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   "Experience is the name everyone gives to their mistakes." – Oscar Wilde 
   <br><br>
-  <a href="https://www.linkedin.com/in/devan-craig-67b55a124/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/devan-craig-67b55a124/" style="color: white;">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-architect
